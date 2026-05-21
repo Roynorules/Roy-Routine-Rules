@@ -1,0 +1,6 @@
+{
+  "name": "Daily Discipline Planner",
+  "description": "A premium AI-powered discipline coach and night-study planner for serious NEET aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
